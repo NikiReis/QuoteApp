@@ -21,12 +21,11 @@ export default function App() {
   function CliqueBotao() {
     setCurrentQuote(randomQuote());
   }
-
   function AboutUs() {
     return (
       Alert.alert(
-        'About Us',
-        'This app was created by a group of students from the University of Brasília (UnB) as a project for the discipline of Mobile Development. The goal of this app is to provide motivation and inspiration to its users through quotes from famous people.',
+        'Bem-vindo ao QuotesApp!',
+        'Aqui, você encontrará inspiração a qualquer momento. O objetivo deste aplicativo é motivar e inspirar seus usuários por meio de citações de pessoas famosas. Sinta-se inspirado por grandes nomes do esporte, ciência, arte e muito mais. Descubra uma nova mensagem com apenas um clique e deixe essas palavras te motivarem a alcançar novos objetivos todos os dias! E lembre-se, nunca desista!',
       )
     )
   }
@@ -48,11 +47,14 @@ export default function App() {
         />
 
         <View style={[style_quote.message]}>
-          <Text style={{color: 'black', fontSize: 15}}>
+          <Text style={{color: 'black', fontSize: 18, fontWeight: "bold"}}>
+            - {currentQuote.author}
+          </Text>
+          <Text style={{color: 'black', fontSize: 18}}>
             "{currentQuote.quote}"
           </Text>
-          <Text style={{color: 'black', fontSize: 15}}>
-            - {currentQuote.author}
+          <Text style={{color: 'black', fontSize: 18, marginTop: 10}}>
+            {currentQuote.description}
           </Text>
         </View>
       </View>

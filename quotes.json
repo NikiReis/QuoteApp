@@ -1,67 +1,80 @@
-  [ { 
-    "author": "Jack Dempsey",
+[
+    {
+        "author": "Jack Dempsey",
         "quote": "Um campeão é alguém que se levanta quando não consegue",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dnDYvimHsf6E2mUdmKNrPPAfn287xh3e3g&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dnDYvimHsf6E2mUdmKNrPPAfn287xh3e3g&s",
+        "description": "\t\t\t\t Jack Dempsey foi um dos maiores boxeadores da era moderna, conhecido por seu estilo agressivo e força no ringue. Ele foi campeão mundial dos pesos-pesados entre 1919 e 1926, e é considerado uma lenda do boxe americano."
     },
     {
-        "author": "Serena Williams ",
-        "quote": "O sucesso de cada mulher deveria ser uma inspiração para outra mulher. Somos mais fortes quando nos apoiamos. ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Serena_Williams_at_2013_US_Open.jpg/800px-Serena_Williams_at_2013_US_Open.jpg"
+        "author": "Serena Williams",
+        "quote": "O sucesso de cada mulher deveria ser uma inspiração para outra mulher. Somos mais fortes quando nos apoiamos.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Serena_Williams_at_2013_US_Open.jpg/800px-Serena_Williams_at_2013_US_Open.jpg",
+        "description": "\t\t\t\t Serena Williams é amplamente considerada uma das maiores tenistas de todos os tempos. Com 23 títulos de Grand Slam em simples, ela quebrou barreiras de gênero e raça no esporte, tornando-se um ícone mundial de perseverança e força feminina."
     },
     {
         "author": "Michael Phelps",
         "quote": "Tudo é possível desde que você dedique seu tempo, seu corpo e sua mente",
-        "image":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/12/07/michael-phelps-gold.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp"
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/12/07/michael-phelps-gold.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
+        "description": "\t\t\t\t Michael Phelps é o nadador mais condecorado da história olímpica, com um total de 28 medalhas, sendo 23 de ouro. Ele redefiniu o que é ser um atleta olímpico, com sua impressionante dedicação e capacidade de superar limites."
     },
     {
         "author": "Walt Disney",
         "quote": "Todos os nossos sonhos podem se tornar realidade, se nós tivermos a coragem para persegui-los",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Walt_Disney_1946.JPG/400px-Walt_Disney_1946.JPG"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Walt_Disney_1946.JPG/400px-Walt_Disney_1946.JPG",
+        "description": "\t\t\t\t Walt Disney foi um produtor de cinema, empresário e animador americano, cofundador da Walt Disney Company. Ele revolucionou a indústria do entretenimento com criações como Mickey Mouse e parques temáticos como a Disneylândia, inspirando gerações com suas ideias inovadoras."
     },
     {
         "author": "Albert Einstein",
         "quote": "Não tentes ser bem-sucedido, tenta antes ser um homem de valor.",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0P8S3332FappdrbV_3GgpqkKpsDTmHwyWw&s"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Einstein1921_by_F_Schmutzer_3.jpg",
+        "description": "\t\t\t\t Albert Einstein foi um físico teórico alemão, famoso por desenvolver a Teoria da Relatividade, que mudou a compreensão da física moderna. Ele também ganhou o Prêmio Nobel de Física em 1921 por sua explicação do efeito fotoelétrico."
     },
     {
         "author": "Nelson Mandela",
         "quote": "Nós todos temos sonhos. Mas, para tornar os sonhos realidade, é preciso uma enorme quantidade de determinação, dedicação, auto-disciplina e esforço.",
-        "image":"https://ajn1.com.br/wp-content/uploads/2024/07/nelson-mandela-700x525.jpg"
+        "image": "https://ajn1.com.br/wp-content/uploads/2024/07/nelson-mandela-700x525.jpg",
+        "description": "\t\t\t\t Nelson Mandela foi um líder revolucionário sul-africano que lutou contra o apartheid e passou 27 anos na prisão por seu ativismo. Ele se tornou o primeiro presidente negro da África do Sul e um símbolo global de justiça e reconciliação."
     },
     {
-        "author": "Steve Jobs", 
-        "quote": "A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode",
-        "image":"https://www.zdnet.com/a/img/resize/1931f44cb4478538e9346ae98c27b3ab025264fd/2014/10/03/c5de4bd4-4b34-11e4-b6a0-d4ae52e95e57/stevejobswide620x350.jpg?auto=webp&width=1280"
+        "author": "Steve Jobs",
+        "quote": "A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode.",
+        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2017%2F10%2Fprofoto-story-behind-albert-watson-steve-jobs-portrait-video-tw.jpg?w=960&cbr=1&q=90&fit=max",
+        "description": "\t\t\t\t Steve Jobs foi o cofundador da Apple e um dos maiores visionários da tecnologia. Ele liderou a criação de produtos como o iPhone, o iPod e o iPad, transformando a maneira como as pessoas interagem com a tecnologia e revolucionando diversas indústrias."
     },
     {
-        "author": "Ayrton Senna", 
-        "quote": "Se você quer ser bem-sucedido, precisa ter dedicação total, buscar seu último limite e dar o melhor de si",
-        "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/manual/Hall%20of%20Fame%202024/GettyImages-659224375"
+        "author": "Ayrton Senna",
+        "quote": "Se você quer ser bem-sucedido, precisa ter dedicação total, buscar seu último limite e dar o melhor de si.",
+        "image": "https://cdn.shoppub.io/brogan/media/filer_public/02/5e/025e95ae-ec28-4e27-821b-9ff9fd6daa1a/fotos_blog_ayrton_senna_14.png",
+        "description": "\t\t\t\t Ayrton Senna foi um piloto brasileiro de Fórmula 1, tricampeão mundial e um dos maiores nomes do automobilismo. Sua habilidade ao volante, combinada com sua mentalidade perfeccionista, o tornou uma lenda, especialmente por suas performances em corridas com chuva."
     },
     {
         "author": "Leonardo da Vinci",
         "quote": "A simplicidade é o último grau de sofisticação.",
-        "image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2019/06/24/leo.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2019/06/24/leo.jpg",
+        "description": "\t\t\t\t Leonardo da Vinci foi um polímata do Renascimento, cujas contribuições abranjeram as artes, ciências, engenharia e anatomia. Conhecido por pinturas como 'Mona Lisa' e 'A Última Ceia', ele também fez esboços visionários de invenções séculos à frente de seu tempo."
     },
     {
-        "author": "Carl Lewis",    
-        "quote": "Se você não confiar em si, sempre irá encontrar uma maneira de não vencer. ",
-        "image": "https://cdn.britannica.com/80/196780-050-ECB01B9D/Carl-Lewis-Olympic-Games-Barcelona-1992.jpg"
+        "author": "Carl Lewis",
+        "quote": "Se você não confiar em si, sempre irá encontrar uma maneira de não vencer.",
+        "image": "https://cdn.britannica.com/80/196780-050-ECB01B9D/Carl-Lewis-Olympic-Games-Barcelona-1992.jpg",
+        "description": "\t\t\t\t Carl Lewis é um ex-atleta americano que conquistou 9 medalhas de ouro olímpicas em atletismo. Conhecido principalmente por suas vitórias em corridas de velocidade e saltos em distância, ele foi uma das maiores estrelas dos Jogos Olímpicos dos anos 80 e 90."
     },
     {
         "author": "Muhammad Ali",
         "quote": "O homem que não tem imaginação não tem asas.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/muhammad_ali_photo_by_stanley_weston_archive_photos_getty_482857506.jpg"
-        
+        "image": "https://hips.hearstapps.com/hmg-prod/images/muhammad_ali_photo_by_stanley_weston_archive_photos_getty_482857506.jpg",
+        "description": "\t\t\t\t Muhammad Ali foi um boxeador americano conhecido tanto por sua habilidade no ringue quanto por seu ativismo político e social. Ele foi três vezes campeão mundial dos pesos-pesados e ficou famoso por sua personalidade carismática e combativa, além de suas lutas lendárias."
     },
     {
-        "author": "Michael Schumacher ",
+        "author": "Michael Schumacher",
         "quote": "Eu sempre acreditei que você nunca deve desistir e deve continuar lutando, mesmo quando há apenas uma pequena oportunidade.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Michael_Schumacher_%28Ferrari%29_-_GP_d%27Italia_1998.jpg/800px-Michael_Schumacher_%28Ferrari%29_-_GP_d%27Italia_1998.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Michael_Schumacher_%28Ferrari%29_-_GP_d%27Italia_1998.jpg/800px-Michael_Schumacher_%28Ferrari%29_-_GP_d%27Italia_1998.jpg",
+        "description": "\t\t\t\t Michael Schumacher é um ex-piloto de Fórmula 1 alemão, heptacampeão mundial. Ele é amplamente considerado um dos maiores pilotos da história, conhecido por sua precisão, determinação e domínio absoluto nas pistas durante sua carreira."
     },
     {
         "author": "Mahatma Gandhi",
         "quote": "A força não provém da capacidade física. Provém de uma vontade indomável.",
-        "image": "https://www.onthisday.com/images/people/mahatma-gandhi.jpg?w=360"
+        "image": "https://www.onthisday.com/images/people/mahatma-gandhi.jpg?w=360",
+        "description": "\t\t\t\t Mahatma Gandhi foi um líder político e espiritual da Índia, conhecido por sua filosofia de resistência não violenta, que levou à independência da Índia do domínio britânico. Ele é considerado um dos maiores defensores da paz e da justiça no mundo."
     }
 ]
