@@ -1,0 +1,67 @@
+  [ { 
+    "author": "Jack Dempsey",
+        "quote": "Um campeão é alguém que se levanta quando não consegue",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dnDYvimHsf6E2mUdmKNrPPAfn287xh3e3g&s"
+    },
+    {
+        "author": "Serena Williams ",
+        "quote": "O sucesso de cada mulher deveria ser uma inspiração para outra mulher. Somos mais fortes quando nos apoiamos. ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Serena_Williams_at_2013_US_Open.jpg/800px-Serena_Williams_at_2013_US_Open.jpg"
+    },
+    {
+        "author": "Michael Phelps",
+        "quote": "Tudo é possível desde que você dedique seu tempo, seu corpo e sua mente",
+        "image":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/12/07/michael-phelps-gold.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp"
+    },
+    {
+        "author": "Walt Disney",
+        "quote": "Todos os nossos sonhos podem se tornar realidade, se nós tivermos a coragem para persegui-los",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Walt_Disney_1946.JPG/400px-Walt_Disney_1946.JPG"
+    },
+    {
+        "author": "Albert Einstein",
+        "quote": "Não tentes ser bem-sucedido, tenta antes ser um homem de valor.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0P8S3332FappdrbV_3GgpqkKpsDTmHwyWw&s"
+    },
+    {
+        "author": "Nelson Mandela",
+        "quote": "Nós todos temos sonhos. Mas, para tornar os sonhos realidade, é preciso uma enorme quantidade de determinação, dedicação, auto-disciplina e esforço.",
+        "image":"https://ajn1.com.br/wp-content/uploads/2024/07/nelson-mandela-700x525.jpg"
+    },
+    {
+        "author": "Steve Jobs", 
+        "quote": "A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode",
+        "image":"https://www.zdnet.com/a/img/resize/1931f44cb4478538e9346ae98c27b3ab025264fd/2014/10/03/c5de4bd4-4b34-11e4-b6a0-d4ae52e95e57/stevejobswide620x350.jpg?auto=webp&width=1280"
+    },
+    {
+        "author": "Ayrton Senna", 
+        "quote": "Seja você quem for, seja qual for a posição social que você tenha na vida, a mais alta ou a mais baixa, tenha sempre como meta muita força, muita determinação e sempre faça tudo com muito amor e com muita fé em Deus, que um dia você chega lá. De alguma maneira você chega lá.",
+        "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/manual/Hall%20of%20Fame%202024/GettyImages-659224375"
+    },
+    {
+        "author": "Leonardo da Vinci",
+        "quote": "A simplicidade é o último grau de sofisticação.",
+        "image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2019/06/24/leo.jpg"
+    },
+    {
+        "author": "Carl Lewis",    
+        "quote": "Se você não confiar em si, sempre irá encontrar uma maneira de não vencer. ",
+        "image": "https://cdn.britannica.com/80/196780-050-ECB01B9D/Carl-Lewis-Olympic-Games-Barcelona-1992.jpg"
+    },
+    {
+        "author": "Muhammad Ali",
+        "quote": "O homem que não tem imaginação não tem asas.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/muhammad_ali_photo_by_stanley_weston_archive_photos_getty_482857506.jpg"
+        
+    },
+    {
+        "author": "Michael Schumacher ",
+        "quote": "Eu sempre acreditei que você nunca deve desistir e deve continuar lutando, mesmo quando há apenas uma pequena oportunidade.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Michael_Schumacher_%28Ferrari%29_-_GP_d%27Italia_1998.jpg/800px-Michael_Schumacher_%28Ferrari%29_-_GP_d%27Italia_1998.jpg"
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "quote": "A força não provém da capacidade física. Provém de uma vontade indomável.",
+        "image": "https://www.onthisday.com/images/people/mahatma-gandhi.jpg?w=360"
+    }
+]
