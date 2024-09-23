@@ -43,17 +43,17 @@ export default function App() {
       <View style={style_quote.image}>
         <Image
           source={{uri: currentQuote.image}}
-          style={{width: 320, height: 320, borderRadius: 160}}
+          style={{width: 290, height: 290, borderRadius: 160}}
         />
 
         <View style={[style_quote.message]}>
           <Text style={{color: 'black', fontSize: 18, fontWeight: "bold"}}>
             - {currentQuote.author}
           </Text>
-          <Text style={{color: 'black', fontSize: 18}}>
+          <Text style={{color: 'black', fontSize: 16}}>
             "{currentQuote.quote}"
           </Text>
-          <Text style={{color: 'black', fontSize: 18, marginTop: 10}}>
+          <Text style={{color: 'black', fontSize: 16, marginTop: 10}}>
             {currentQuote.description}
           </Text>
         </View>
@@ -79,7 +79,7 @@ const style_quote = StyleSheet.create({
     alignItems: 'flex-start',
     top: 85,
     position: 'absolute',
-    marginLeft: 20,
+    marginLeft: 35,
   },
   message: {
     alignItems: 'center',
